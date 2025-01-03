@@ -33,7 +33,7 @@ A dynamic and responsive web application built with **HTML**, **CSS**, and **Jav
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/rushikeshk2012/currency-converter.git  
+   git clone https://github.com/rushikeshk2012/Currency-Converter.git  
    ```  
 2. Open the `index.html` file in your preferred browser.  
 3. Input the amount and select the currencies to convert.  
